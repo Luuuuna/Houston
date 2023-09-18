@@ -1,0 +1,22 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+h1, h2, h3 {
+    margin-top: 1.5em;
+}
+h1 {
+    font-size: 32px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+figcaption {
+    font-style: italic;
+}
+figure {
+    float: right;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
